@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-02T22:07:21 IST" name="Default suite" finished-at="2022-05-02T22:07:21 IST" duration-ms="184">
+    <groups>
+    </groups>
+    <test started-at="2022-05-02T22:07:21 IST" name="Default test" finished-at="2022-05-02T22:07:21 IST" duration-ms="184">
+      <class name="AutoJenkins.CraeteContact$CreateOrgTest">
+        <test-method signature="orgTest()[pri:0, instance:AutoJenkins.CraeteContact$CreateOrgTest@7671cb68]" started-at="2022-05-02T22:07:21 IST" name="orgTest" finished-at="2022-05-02T22:07:21 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orgTest -->
+        <test-method signature="orgTest1()[pri:0, instance:AutoJenkins.CraeteContact$CreateOrgTest@7671cb68]" started-at="2022-05-02T22:07:21 IST" name="orgTest1" finished-at="2022-05-02T22:07:21 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orgTest1 -->
+        <test-method signature="orgTest3()[pri:0, instance:AutoJenkins.CraeteContact$CreateOrgTest@7671cb68]" started-at="2022-05-02T22:07:21 IST" name="orgTest3" finished-at="2022-05-02T22:07:21 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orgTest3 -->
+      </class> <!-- AutoJenkins.CraeteContact$CreateOrgTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
